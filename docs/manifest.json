@@ -1,0 +1,10 @@
+{
+  "dictionaryVersion": 1,
+  "schemaVersion": 1,
+  "fileName": "dictionary-v1.json",
+  "updatedAt": "2026-07-21",
+  "sizeBytes": 15774000,
+  "sha256": "fc487b443cb3404e4bebbb121220dffd51504344c775c57f3ed281971ff4e2f1",
+  "minimumAppVersion": 1,
+  "releaseNotes": "Initial online dictionary release."
+}
