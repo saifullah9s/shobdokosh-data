@@ -1,10 +1,10 @@
 {
-  "dictionaryVersion": 2,
+  "dictionaryVersion": 3,
   "schemaVersion": 1,
-  "fileName": "dictionary-v2.json",
+  "fileName": "dictionary-v3.json",
   "updatedAt": "2026-07-29",
-  "sizeBytes": 15771696,
-  "sha256": "20d72c16bcb1543dab27290e21e69478105d54537bdd78fcf634481f8057acb2",
+  "sizeBytes": 15771706,
+  "sha256": "1c56dce53f201b417b79aea2fd07f6b3ce43764274b6ec32eff2d7640e9b9d98",
   "minimumAppVersion": 1,
-  "releaseNotes": "2nd online dictionary release."
+  "releaseNotes": "Corrected release replacing the malformed dictionary version 2."
 }
