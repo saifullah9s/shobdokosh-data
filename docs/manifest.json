@@ -1,10 +1,10 @@
 {
-  "dictionaryVersion": 1,
+  "dictionaryVersion": 2,
   "schemaVersion": 1,
-  "fileName": "dictionary-v1.json",
-  "updatedAt": "2026-07-21",
-  "sizeBytes": 15774000,
-  "sha256": "fc487b443cb3404e4bebbb121220dffd51504344c775c57f3ed281971ff4e2f1",
+  "fileName": "dictionary-v2.json",
+  "updatedAt": "2026-07-29",
+  "sizeBytes": 15771696,
+  "sha256": "20d72c16bcb1543dab27290e21e69478105d54537bdd78fcf634481f8057acb2",
   "minimumAppVersion": 1,
-  "releaseNotes": "Initial online dictionary release."
+  "releaseNotes": "2nd online dictionary release."
 }
