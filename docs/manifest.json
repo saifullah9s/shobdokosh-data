@@ -1,10 +1,10 @@
 {
-  "dictionaryVersion": 5,
+  "dictionaryVersion": 6,
   "schemaVersion": 1,
-  "fileName": "dictionary-v5.json",
-  "updatedAt": "2026-08-05",
-  "sizeBytes": 15212206,
-  "sha256": "6ba2a50e7aec98350c769d8df17709f6d0d161b0c0e9a459d46574d5885b38f8",
+  "fileName": "dictionary-v6.json",
+  "updatedAt": "2026-08-08",
+  "sizeBytes": 15178769,
+  "sha256": "37419df0b56857140c4f53202eb0e45beb967c1fb16311bf63f40282fc5811e8",
   "minimumAppVersion": 1,
   "releaseNotes": "Corrected release replacing the malformed dictionary version 2."
 }
